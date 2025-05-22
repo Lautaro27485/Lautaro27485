@@ -1,6 +1,6 @@
-# Hi there, I'm Lautaro <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Lautaro Suarez <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+## ☄️I'm a Web Development Student ☄️
 ---
-## I'm a Web Development Student 
 - 🔥 Full Stack Web Developer – crafting responsive and dynamic web applications.
 - 👨‍💻 I’m currently working on web development technologies like php, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅

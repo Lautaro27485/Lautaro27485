@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Web Development Student 
+## I'm a Web Development Student 
 - 🔥 Full Stack Web Developer – crafting responsive and dynamic web applications.
 - 👨‍💻 I’m currently working on web development technologies like php, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅

@@ -2,40 +2,24 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a Computer 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
 
----
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-
----
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-### Contact with me 📝
-
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
-
-<br />
 
 ---
 
 ### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![C++](http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)

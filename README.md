@@ -1,12 +1,12 @@
-# Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Lautaro <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer 
-
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+## I'm a Computer Web Development Student 
+- 🔥 Full Stack Web Developer – crafting responsive and dynamic web applications.
+- 👨‍💻 I’m currently working on web development technologies like php, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💪🏼 Future Goals: Learn more technologies - Create a web service.
 
 
 ---
